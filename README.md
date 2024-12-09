@@ -1,4 +1,4 @@
-computerized minds
+computer
 <br />
 <br />
 <br />
