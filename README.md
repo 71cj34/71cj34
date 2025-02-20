@@ -1,4 +1,4 @@
-software as a disservice
+software made hard
 <br />
 <br />
 <br />
