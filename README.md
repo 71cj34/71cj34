@@ -6,4 +6,4 @@
 <br />
 <br />
 <br />
-<sub>*McMaster Engineering, 2029.*</sub>
+<sub>McMaster Engineering, 2029.</sub>
