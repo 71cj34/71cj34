@@ -1,4 +1,5 @@
-<img src="https://i.imgur.com/Ek1CAdL.png" style="width: 50%; height:auto;">
+Interested in machine learning and automation
+<!-- <img src="https://i.imgur.com/Ek1CAdL.png" style="width: 50%; height:auto;"> -->
 <br />
 <br />
 <br />
