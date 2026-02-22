@@ -2,7 +2,9 @@ Hi! I'm Jason Cheng, a 2nd year Computer Engineering student at McMaster Univers
 
 I'm interested in machine learning and using software to improve 
 efficiency at performing all sorts of tasks. Feel free to reach out!
-<!-- <img src="https://i.imgur.com/Ek1CAdL.png" style="width: 50%; height:auto;"> -->
+
+Currently team member @ Google Developer Student Group at McMaster, working on LLM interpretability. 
+
 <br />
 <br />
 <br />
