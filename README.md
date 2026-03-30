@@ -5,6 +5,8 @@ efficiency at performing all sorts of tasks. Feel free to <a href="mailto:hello@
 
 Currently team member @ the Google Student Developer Group (McMaster) working on LLM interpretability.
 
+Co-op Summer 2026 at ATS Automation, Validation Engineering.
+
 <br />
 <br />
 <br />
