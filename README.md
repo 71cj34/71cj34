@@ -3,9 +3,9 @@ Hi! I'm Jason Cheng, a 2nd year Computer Engineering student at McMaster Univers
 I'm interested in machine learning and using software to improve 
 efficiency at performing all sorts of tasks. Feel free to <a href="mailto:hello@jasoncheng.me">reach out</a>!
 
-Currently team member @ the Google Student Developer Group (McMaster) working on LLM interpretability.
+Formerly team member @ Google Student Developer Group (McMaster) working on LLM interpretability (Fall/Winter 2025-2026).
 
-Co-op Summer 2026 at ATS Automation, Validation Engineering.
+Co-op Summer 2026 at ATS Automation, Validation Engineering (Summer 2026).
 
 <br />
 <br />
