@@ -1,4 +1,4 @@
-Hi! I'm Jason Cheng, a 2nd year Computer Engineering student at McMaster University.
+Hi! I'm Jason Cheng, a 3rd year Computer Engineering student at McMaster University.
 
 I'm interested in machine learning and using software to improve 
 efficiency at performing all sorts of tasks. Feel free to <a href="mailto:hello@jasoncheng.me">reach out</a>!
